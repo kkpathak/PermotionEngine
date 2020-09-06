@@ -1,0 +1,6 @@
+C:\Users\KPATHAK\source\repos\PermotionEngineProject\PermotionEngineProject\bin\Debug\PermotionEngineProject.exe.config
+C:\Users\KPATHAK\source\repos\PermotionEngineProject\PermotionEngineProject\bin\Debug\PermotionEngineProject.exe
+C:\Users\KPATHAK\source\repos\PermotionEngineProject\PermotionEngineProject\bin\Debug\PermotionEngineProject.pdb
+C:\Users\KPATHAK\source\repos\PermotionEngineProject\PermotionEngineProject\obj\Debug\PermotionEngineProject.csproj.CoreCompileInputs.cache
+C:\Users\KPATHAK\source\repos\PermotionEngineProject\PermotionEngineProject\obj\Debug\PermotionEngineProject.exe
+C:\Users\KPATHAK\source\repos\PermotionEngineProject\PermotionEngineProject\obj\Debug\PermotionEngineProject.pdb
